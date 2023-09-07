@@ -1,4 +1,3 @@
-```markdown
 # Pomodoro App
 
 [![Licença](https://img.shields.io/badge/Licença-MIT-blue.svg)](https://opensource.org/licenses/MIT)
